@@ -82,14 +82,14 @@ I have looked at various "how to's" on the internet; blogs as well as videos, to
 ## 2.2 Raspberry Pi 3 / Zero W
 To bring the Magic Mirror to life, I need a computer or a microcomputer as a host. I believe a Raspberry Pi is very suitable for this. There are many instructions on the internet on what you can do with a Raspberry Pi and a huge community that deals with the Raspberry Pi. As mentioned above, I have already implemented projects with a Raspberry Pi, so I already own the Raspberry Pi 3 and the Zero W. I also have the power supply and a corresponding Micro SD card 16GB.
 
-<img src="images/raspberrypi3-1.png" width = 15% height = 15%>
-<img src="images/raspberrypizerow.png" width = 15% height = 15%>
+<img src="images/raspberrypi3-1.png" width = 25% height = 25%>
+<img src="images/raspberrypizerow.png" width = 25% height = 25%>
 
 
 ### 2.2.1 Raspberry Pi Power Supply
 The Raspberry Pi can be operated with any mobile phone USB power supply and a Micro-USB cable. In my case, I use the original power supply from Raspberry.
 
-<img src="images/powersupply.png" width = 15% height = 15%>
+<img src="images/powersupply.png" width = 25% height = 25%>
 
 ## 2.3 Display (Monitor)
 For the visual representation of the Magic Mirror, I need a display or a monitor. I have removed the display from an old laptop, which is perfect for such a project. A disadvantage is that the display is old and the black is very bright. Good displays of the appropriate size are very expensive, so I decided on the old one. I also have the power supply and HDMI cable for the display.
@@ -98,42 +98,42 @@ For the visual representation of the Magic Mirror, I need a display or a monitor
 | --- | --- | --- | --- | --- | --- |
 | 15.6 | 39.6 | 33.5 | 19.4 | Standard size for laptops | 1366 x 768 |
 
-<img src="images/display.png" width = 15% height = 15%>
+<img src="images/display.png" width = 25% height = 25%>
 
 ## 2.4 Display Interface
 The display is to be used outside the laptop, so it needs an interface. It is connected via the flat ribbon connector on the display and offers various connections depending on the version. In my case, the interface has the following connections: HDMI, VGA, DVI, 3.5mm Jack IN & OUT, and 12V power supply. Most interfaces have push buttons like those known from a monitor, with which you can adjust display settings such as brightness, contrast, etc.
 
-<img src="images/displayinterface.png" width = 15% height = 15%>
+<img src="images/displayinterface.png" width = 25% height = 25%>
 
 ### 2.4.1 Display Universal Power Supply 12 Volt
 The display needs to be powered, for this a 12V universal power supply is necessary. They are available in various versions, for example with manual output. I chose one that outputs exactly 12V.
 
-<img src="images/universalpowersupply.png" width = 15% height = 15%>
+<img src="images/universalpowersupply.png" width = 25% height = 25%>
 
 ## 2.5 HDMI Cable
 The Raspberry Zero W is connected to the display with a Mini-HDMI to HDMI cable, so that the MagicMirror² is displayed. The Raspberry Pi 3 can be operated with a normal HDMI cable.
 
-<img src="images/hdmicable.png" width = 15% height = 15%>
+<img src="images/hdmicable.png" width = 25% height = 25%>
 
 ## 2.6 Mirror (Spy Mirror)
 A mirror must not be missing in a Smart Mirror, it is not a normal mirror as known from the bathroom, but a semi-transparent mirror. A so-called police mirror or spy mirror. Unlike normal mirrors, this one lets light through, I use this effect later for the display. There is also the possibility to use a film that has the same property. I prefer to use a normal mirror because the quality is much better than that of the film. I had such a mirror made at https://www.brigla-shop.de/spiegel-smart-mirror, the Chrom Spy 4mm.
 
 Dimensions: W: 27cm H: 36cm D: 0.4cm
 
-<img src="images/spymirror.png" width = 15% height = 15%>
+<img src="images/spymirror.png" width = 25% height = 25%>
 
 ## 2.7 Wood for a Frame
 I had the picture frame made to measure. I use a frame of the appropriate thickness to fix the display and store the corresponding electronics behind it. I ordered this picture frame here: https://www.bilderrahmen-passt.de
 
 Dimensions: W: 27cm H: 36cm D: 3cm
 
-<img src="images/woodframe.png" width = 15% height = 15%>
+<img src="images/woodframe.png" width = 25% height = 25%>
 
 ## 2.8 Mounting Material and Tools
 I have some screws and mounting material at home that I can use. If I had a 3D printer, I would print the corresponding parts: angles to fix the display. The following tools are needed: drill, cross, flat screwdriver.
 
-<img src="images/mountingmaterial.png" width = 15% height = 15%>
-<img src="images/tool.png" width = 15% height = 15%>
+<img src="images/mountingmaterial.png" width = 25% height = 25%>
+<img src="images/tool.png" width = 25% height = 25%>
 
 # 3 Setting up Raspberry PI 3
 ## 3.1 Installing Raspberry Pi OS
